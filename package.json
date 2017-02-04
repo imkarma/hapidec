@@ -1,0 +1,23 @@
+{
+  "name": "hapidec",
+  "version": "0.0.1",
+  "description": "hapi typescript decorators",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkarma/hapidec.git"
+  },
+  "keywords": [
+    "hapi",
+    "decorators"
+  ],
+  "author": "Andrew Pozunyk <andrew.pozunyk@gmail.com> (https://ua.linkedin.com/in/pozunyk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imkarma/hapidec/issues"
+  },
+  "homepage": "https://github.com/imkarma/hapidec#readme"
+}
