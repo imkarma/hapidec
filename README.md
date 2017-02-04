@@ -1,0 +1,2 @@
+# hapidec
+hapi typescript decorators
